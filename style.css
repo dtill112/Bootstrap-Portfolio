@@ -1,0 +1,71 @@
+body{
+    font-family: 'Georgia', Times,'Times New Roman', serif;
+    background: url('Images/Background.png')
+    
+}
+
+.container1{
+    border-radius: 5px;
+    background-color: #fafafacb;
+    padding: 15px;
+    border: 3.5px solid #000000;
+    margin: 15px;
+}
+
+.container-aboutme{
+    margin-top: -40px;
+
+
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-weight: 250 bold
+}
+
+h3{  
+    color: black;
+    text-align: left;
+    font-weight: 100;
+}
+h3.right{
+    margin-left: 15px;
+}
+
+input[type="text"], textarea{
+    width: 100%;
+    padding: 1px;
+    border: 2.5px solid #000000;
+    border-radius: 5px solid;
+    margin-top: 3px;
+    margin-bottom: 1px;
+    background: url('Images/Background.png');
+    box-sizing: border-box;
+}
+.nav{
+    background-color: rgba(252, 252, 252, 0.534);
+    color: black;
+    text-align: center;
+    padding: 10px 10px;
+    border: 1.5px solid #000000
+
+}
+
+.nav > li{
+    display: inline-block;
+    width: 15%;
+}
+
+.fa{padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+}
+
+.page-header{
+    text-indent: 25px;
+}
+
+
+    
